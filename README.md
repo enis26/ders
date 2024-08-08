@@ -9,3 +9,5 @@
 <h2>Tüm Çalışma programını görüntülemek için</h2>
 
 ```python3 main.py -all```
+
+**Not: ilerde buyuk ihtimal saat kacta oldugunu veya kac dakika/saat kaldigini hesaplayan ozellikler eklerim.**
