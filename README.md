@@ -10,4 +10,4 @@
 
 ```python3 main.py -all```
 
-**Not: ilerde buyuk ihtimal saat kacta oldugunu veya kac dakika/saat kaldigini hesaplayan ozellikler eklerim.**
+**Not: ilerde buyuk ihtimal saat kacta oldugunu veya kac dakika/saat kaldigini hesaplayan, ve artik JSON kullanan bir repo yaparim.**
