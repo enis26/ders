@@ -11,7 +11,7 @@
 ```python3 main.py -all```
 
 <h2>Windowsda ise</h2>
-```python "C:\Users\bilgisayar_adi\Desktop\ders\ders\main.py"``` \
+```python "C:\Users\bilgisayar_adi\Desktop\ders\ders\main.py"```
 
 Yani, main.py'nin pathini kopyalayip başına ```python``` yazarak CMD'ye yada PowerShell'e yapıştırdık.
 
