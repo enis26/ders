@@ -6,13 +6,13 @@ x = datetime.datetime.now()
 tarih = (x.strftime("%A"))
 
 ders_programi = {
-#Kendine göre Ayarla
+
     'pazartesi': "Matematik, Matematik, Edebiyat, Edebiyat",
     'sali': "Biyoloji, Biyoloji, Kimya, Kimya",
     'carsamba': "Beden, Beden, Felsefe, Felsefe",
     'persembe': "Fizik, Fizik, Din, Din",
     'cuma': "Ingilizce, Ingilizce, Almanca, Almanca"
-#Kendine göre Ayarla
+
 }
 
 if tarih == "Pazartesi":
